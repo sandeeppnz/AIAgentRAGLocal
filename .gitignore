@@ -1,1 +1,4 @@
 venv/
+chrome_langchain_db/
+.vs/
+__pycache__/
