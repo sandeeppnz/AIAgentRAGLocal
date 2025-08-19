@@ -1,5 +1,8 @@
 # Reviews RAG (Ollama + LangChain + Chroma)
 
+![Uploading project-thumb-light.png…]()
+
+
 A tiny Retrieval-Augmented Generation (RAG) app that answers questions about a pizza restaurant by retrieving the most relevant customer reviews and feeding them to a local LLM via Ollama.
 
 - **LLM**: `llama3.2` (local via Ollama)
